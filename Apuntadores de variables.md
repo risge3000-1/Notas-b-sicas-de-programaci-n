@@ -1,0 +1,1 @@
+Los apuntadores son un tipo especial de variables, ya que *guardan la [[RAM|dirección de memoria]]* de un tipo primitivo de una variable. C++ hace un muy fuerte uso de apuntadores.

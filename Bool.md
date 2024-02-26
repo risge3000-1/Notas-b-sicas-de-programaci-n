@@ -1,0 +1,1 @@
+Tipo de variable primitiva que sólo puede leerse como verdadero (1) o falso (0).

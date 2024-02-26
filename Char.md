@@ -1,0 +1,1 @@
+Variable primitiva donde se guarda un carácter (o sea, letras).

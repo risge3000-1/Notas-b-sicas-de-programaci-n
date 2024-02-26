@@ -1,0 +1,2 @@
+Las computadoras actuales sólo leen presencia de carga [[Electricidad|eléctrica]] o ausencia de. 
+Como humanos interpretamos esto como [[Bit|bits]]. Sin embargo, las máquinas pueden usar esta presencia y ausencia de carga como datos de entrada para [[Compuertas lógicas|compuertas lógicas]].

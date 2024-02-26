@@ -1,0 +1,1 @@
+Unidad más mínima de información. Puede estar vacía (0) o llena (1). 8 bits forman un [[Byte|byte]].

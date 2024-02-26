@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "2ab3b75016ef3074",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a204d7a906884cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ac896dd68077863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compuertas lógicas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca7d067a7a92129d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f0b3d146b74b0c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "72298277eeeca132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ee795b9b037392b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fef0d9af026d825e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9488ebdf9dc2094",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9189b49d9994d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbb469f58037b822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f54e320410f1a10a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Compuertas lógicas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b15d438b62ca98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Compuertas lógicas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a79d280be1f1a21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7faeac7be6e2dc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Compuertas lógicas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ac896dd68077863",
+  "lastOpenFiles": [
+    "Notas-b-sicas-de-programaci-n/LICENSE",
+    "Notas-b-sicas-de-programaci-n",
+    "Datos primitivos.md",
+    "Byte.md",
+    "RAM.md",
+    "Apuntadores de variables.md",
+    "Bool.md",
+    "Float.md",
+    "Char.md",
+    "Interger.md",
+    "Variable.md",
+    "Electricidad.md",
+    "¡Las máquinas NO entienden números!.md",
+    "Compuertas lógicas.md",
+    "Bit.md"
+  ]
+}

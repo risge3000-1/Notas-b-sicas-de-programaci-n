@@ -1,0 +1,1 @@
+Variable primitiva donde guardamos lo que normalmente conocemos como números con decimales

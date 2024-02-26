@@ -1,0 +1,1 @@
+Lugar en la memoria de la computadora donde se guarda un tipo de [[Datos primitivos|dato primitivo]] en concreto

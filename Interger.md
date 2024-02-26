@@ -1,0 +1,1 @@
+Variable primitiva donde guardamos números enteros.
